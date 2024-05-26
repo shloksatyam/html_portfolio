@@ -1,0 +1,53 @@
+
+html
+{
+    font-size: 10pt;
+    background: #FFFF;
+}
+.montserrat-header1 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 3rem;
+    color: #4D869C;
+    
+  }
+  .montserrat-header2 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2rem;
+    color: #4D869C;
+    
+  }
+
+  .montserrat-header3 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.5rem;
+    color: #4D869C;
+    
+  }
+
+  .montserrat-4 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1rem;
+    color: black;
+  }
+
+  .montserrat-header4 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.2rem;
+    color: #4D869C;
+  }
+ 
